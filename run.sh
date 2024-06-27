@@ -1,9 +1,9 @@
 # sudo apt install python3.10-venv
 #!/bin/bash
-python3 -m venv virtualenv
+python3 -m venv venv
 
 # Activate the virtual environment
-source virtualenv/bin/activate
+source venv/bin/activate
 
 # Install the dependencies from requirements.txt
 pip install -r requirements.txt
