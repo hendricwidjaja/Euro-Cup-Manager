@@ -19,5 +19,12 @@
         "Score A": 3,
         "Score B": 3,
         "Date": "2024-06-15"
+    },
+    {
+        "Team A": "Australia",
+        "Team B": "Denmark",
+        "Score A": 5,
+        "Score B": 10,
+        "Date": "2024-06-27"
     }
 ]
